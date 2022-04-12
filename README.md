@@ -4,7 +4,6 @@ Free Joining Invite link of top discord servers and CBC courses
 
 # Discord Servers for devs
 
-1. [FAANG Path Community](https://discord.gg/sNbVR425eT)
 2. [Team Tanay Community](https://discord.gg/cHubmyc95G)
 3. [Shadab's Server](https://discord.gg/YBT88pYXXj)
 4. [Permissionless Learning](https://discord.gg/DMQxfZkNvV)
@@ -12,8 +11,9 @@ Free Joining Invite link of top discord servers and CBC courses
 6. [Team DevKode](https://discord.gg/2wwgTvDehx)
 7. [Love To Build](https://discord.gg/djAr4eB4fv)
 8. [Community Classroom](https://discord.gg/Pq7mvXKKmf)
-9. [JavaScript Meetup](https://discord.gg/78TAbPAyaB)
-10. [Code Coterie](https://discord.gg/5nFB27SRfz)
+9. [FAANG Path Community](https://discord.gg/sNbVR425eT)
+10. [JavaScript Meetup](https://discord.gg/78TAbPAyaB)
+11. [Code Coterie](https://discord.gg/5nFB27SRfz)
 12. [Nerd jfb tech cave](https://discord.gg/t2VzCgqe8f)
 13. [SlingShot](https://discord.gg/DxSQtEfsvr)
 14. [Brightern](https://discord.gg/xk9XhK3eKt)
