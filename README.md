@@ -49,3 +49,4 @@ Free Joining Invite link of top discord servers and CBC courses
 44. [Tech Hustlers](https://discord.gg/YfFqWafS)
 45. [Programming discussion](https://discord.gg/progdisc)
 46. [Corporate Chat India](https://discord.gg/BZWadRadfs)
+47. [Namaste DEv - By Akshay Saini](https://discord.gg/4K5FvBqJus)
