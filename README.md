@@ -29,7 +29,7 @@ Free Joining Invite link of top discord servers and CBC courses
 24. [JavaScript Mastery](https://discord.gg/77msQ8gJgn)
 25. [Ben Awad](https://discord.gg/benawad)
 26. [Major league hacking](https://discord.gg/mlh)
-27. [https://discord.gg/sMPvfc8X8w](https://discord.gg/sMPvfc8X8w)
+27. [Majorce](https://discord.gg/sMPvfc8X8w)
 28. [Majorce](https://discord.gg/C8jNme8N)
 29. [XRDI](https://discord.gg/AK2W4Ty2z2)
 30. [JavaScript.info](https://discord.gg/ksDNVBWJ)
