@@ -2,7 +2,7 @@
 Free Joining Invite link of top discord servers and CBC courses 
 
 
-# Discord Servers for devs
+# Discord Servers
 
 2. [Team Tanay Community](https://discord.gg/cHubmyc95G)
 3. [Shadab's Server](https://discord.gg/YBT88pYXXj)
@@ -34,7 +34,7 @@ Free Joining Invite link of top discord servers and CBC courses
 29. [XRDI](https://discord.gg/AK2W4Ty2z2)
 30. [JavaScript.info](https://discord.gg/ksDNVBWJ)
 31. [Kevin Powell](https://discord.gg/zCpumSVF)
-32. [https://discord.gg/hacktoberfest](https://discord.gg/hacktoberfest)
+32. [Hacktoberfest](https://discord.gg/hacktoberfest)
 33. [PeerUp](https://discord.gg/4VSqYNXz)
 34. [Avalon Meta](https://discord.gg/ETMxcKHp)
 35. [Lunch Dev](https://discord.gg/xU9rrGms)
@@ -54,3 +54,5 @@ Free Joining Invite link of top discord servers and CBC courses
 49. [Meta Work DAO](https://discord.gg/ByHzyCgMdq)
 50. [Aditya Thakur's Server](https://discord.gg/Zs8t9YzJ9x)
 51. [Developer's Together - Rachit's Programming](https://discord.gg/F2CJMGWW6P)
+52. [Jonas Schmedtmann](https://discord.gg/5DxxHFDwdS)
+53. [Lunch Dev](https://discord.gg/pJurpZ8XZD)
