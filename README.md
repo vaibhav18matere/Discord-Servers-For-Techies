@@ -32,7 +32,6 @@ Free Joining Invite link of top discord servers and CBC courses
 27. [Majorce](https://discord.gg/sMPvfc8X8w)
 28. [Majorce](https://discord.gg/C8jNme8N)
 29. [XRDI](https://discord.gg/AK2W4Ty2z2)
-30. [JavaScript.info](https://discord.gg/ksDNVBWJ)
 31. [Kevin Powell](https://discord.gg/zCpumSVF)
 32. [Hacktoberfest](https://discord.gg/hacktoberfest)
 33. [PeerUp](https://discord.gg/4VSqYNXz)
@@ -50,11 +49,17 @@ Free Joining Invite link of top discord servers and CBC courses
 45. [Programming discussion](https://discord.gg/progdisc)
 46. [Corporate Chat India](https://discord.gg/BZWadRadfs)
 47. [Namaste Dev - By Akshay Saini](https://discord.gg/4K5FvBqJus)
-48. [Big Front End (BFE) dev](https://discord.gg/gjegkgcBXU)
 49. [Meta Work DAO](https://discord.gg/ByHzyCgMdq)
 50. [Aditya Thakur's Server](https://discord.gg/Zs8t9YzJ9x)
 51. [Developer's Together - Rachit's Programming](https://discord.gg/F2CJMGWW6P)
 52. [Jonas Schmedtmann](https://discord.gg/5DxxHFDwdS)
 53. [ReactiFlux](https://discord.gg/5dEAnFzPyP)
-54. [Nest.JS](https://discord.gg/SgMctPMtrm)
-55. [Flutter Dev](https://discord.gg/rflutterdev)
+
+## Official Discord Servers of
+
+| Website                                                                | Discord Invite                                                                |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Nest.JS](https://nestjs.com)                                    | [link](https://discord.gg/SgMctPMtrm)     |
+| [Flutter Dev](https://flutter.dev)                 | [link](https://discord.gg/rflutterdev)                  |
+| [Big Front End (BFE) dev](https://bigfrontend.dev) | [link](https://discord.gg/gjegkgcBXU)                   |
+| [JavaScript.info](javascript.info)                 | [link](https://discord.gg/ksDNVBWJ)                     |
