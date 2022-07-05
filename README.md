@@ -33,7 +33,6 @@ Free Joining Invite link of top discord servers and CBC courses
 28. [Majorce](https://discord.gg/C8jNme8N)
 29. [XRDI](https://discord.gg/AK2W4Ty2z2)
 31. [Kevin Powell](https://discord.gg/zCpumSVF)
-32. [Hacktoberfest](https://discord.gg/hacktoberfest)
 33. [PeerUp](https://discord.gg/4VSqYNXz)
 34. [Avalon Meta](https://discord.gg/ETMxcKHp)
 35. [Lunch Dev](https://discord.gg/xU9rrGms)
@@ -64,3 +63,4 @@ Free Joining Invite link of top discord servers and CBC courses
 | [Big Front End (BFE) dev](https://bigfrontend.dev) | [link](https://discord.gg/gjegkgcBXU)                   |
 | [JavaScript.info](javascript.info)                 | [link](https://discord.gg/ksDNVBWJ)                     |
 | [Top Geek](https://geekyants.com/)                 | [link](https://discord.gg/KUkVHUNTGr)                   |
+| [Hacktoberfest](https://hacktoberfest.digitalocean.com)  | [link](https://discord.gg/hacktoberfest)          |
